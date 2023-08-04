@@ -1,0 +1,76 @@
+Employment Factors				Description	Sources
+Income ($)				Per capita income or total income measures the average income earned per person in a given area in a specified year. It is calculated by dividing the area's total income by its total population. Per capita income is national income divided by population size.	https://worldpopulationreview.com/country-rankings/median-income-by-country
+GINI Index				The total population of a country and its related territories	https://worldpopulationreview.com/country-rankings/wealth-inequality-by-country
+Unemployment %				Unemployment is measured by the number of people who are unemployed as a percentage of the labour force	https://worldpopulationreview.com/country-rankings/unemployment-by-country
+Size of Labour Force				The number of people in employment is measured by the Labour Force Survey (LFS) and consists of people aged 16 and over who did paid work (as an employee or self-employed)	https://data.worldbank.org/indicator/SL.TLF.TOTL.IN
+Composition of Labour Force				The labor force is the sum of employed and unemployed persons. The labor force participation rate is the labor force as a percent of the civilian noninstitutional population.	https://data.oecd.org/emp/labour-force-participation-rate.htm
+Cost of Employment (LCI)				Labor costs are defined as core expenditure borne by employers for the purpose of employing staff. They include employee compensation, with wages and salaries in cash and in kind, employers' social security contributions and employment taxes regarded as labor costs minus any subsidies received.	https://ilostat.ilo.org/topics/labour-costs/
+Total					
+					
+Economic Factors					
+Economic Openness				Economic openness, in political economy, the degree to which nondomestic transactions (imports and exports) take place and affect the size and growth of a national economy. The degree of openness is measured by the actual size of registered imports and exports within a national economy, also known as the Impex rate	https://li.com/research/global-index-of-economic-openness/
+Trade Openness				Trade openness is one measure of the extent to which a country is engaged in the global trading system. Trade openness is usually measured by the ratio between the sum of exports and imports and gross domestic product (GDP).	https://ourworldindata.org/grapher/trade-openness
+Taxation Policy/Competitiveness				The International Tax Competitiveness Index (ITCI) seeks to measure the extent to which a country’s tax system adheres to two important aspects of tax policy: competitiveness and neutrality.	https://taxfoundation.org/publications/international-tax-competitiveness-index/
+Oil Reserves Stockpiles				Measure of strategic reserves of oil pet county in barrells as well as a % of world share	https://www.worldometers.info/oil/oil-reserves-by-country/
+Inflation Forecast				Inflation forecast is measured in terms of the consumer price index (CPI) or harmonised index of consumer prices (HICP) for euro area countries, the euro area aggregate and the United Kingdom. Inflation measures the general evolution of prices. It is defined as the change in the prices of a basket of goods and services that are typically purchased by households. Projections are based on an assessment of the economic climate in individual countries and the world economy, using a combination of model-based analyses and expert judgement. The indicator is expressed in annual growth rates.	https://data.oecd.org/price/inflation-forecast.htm
+Current Inflation				inflation is a general increase in the prices of goods and services in an economy. When the general price level rises, each unit of currency buys fewer goods and services; consequently, inflation corresponds to a reduction in the purchasing power of money.	https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+Stock Price Volatility				Volatility is the rate at which the price of a stock increases or decreases over a particular period. Higher stock price volatility often means higher risk and helps an investor to estimate the fluctuations that may happen in the future.	https://www.theglobaleconomy.com/rankings/Stock_price_volatility/
+Central Bank Intervention					
+Exchange Rate Volatility				This term describes the unpredictable movement of an exchange rate. Of increase, decrease, or no change, the effect on an importer's profits if he waits to exchange currency and the foreign currency rises in value vis-à-vis the domestic currency in the meantime.	https://data.worldbank.org/indicator/PA.NUS.FCRF
+Foreign Currency Reserves				 Foreign exchange reserves are assets held on reserve by a central bank in foreign currencies. These reserves are used to back liabilities and influence monetary policy. It includes any foreign money held by a central bank, such as the U.S. Federal Reserve Bank.	https://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4
+Domestic Debt to GDP				The debt-to-GDP ratio is the metric comparing a country's public debt to its gross domestic product (GDP)	https://tradingeconomics.com/country-list/government-debt-to-gdp
+Real Growth				Real Economic Growth Rate is the rate at which a nation's Gross Domestic product (GDP) changes/grows from one year to another. 	https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+Trade Weighted Real Exchange Rate				The effective exchange rate is an index that describes the strength of a currency relative to a basket of other currencies. 	https://www.bis.org/statistics/eer.htm
+IMF Current Program				The International Monetary Fund (IMF) is an organization of 190 countries, working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world.	https://www.imf.org/external/np/fin/tad/balmov2.aspx?type=TOTAL
+GDP by State				GDP is the market value of all the goods and services produced in a country in a particular time period.	https://worldpopulationreview.com/state-rankings/gdp-by-state
+Unemployment by State					https://www.ncsl.org/research/labor-and-employment/state-unemployment-update.aspx
+Expenditure Side Real GDP					https://www.rug.nl/ggdc/productivity/pwt/
+Output Side Real GDP					https://www.rug.nl/ggdc/productivity/pwt/
+Expenditure Side Real GDP					https://www.rug.nl/ggdc/productivity/pwt/
+Growth Accounting					https://www.rug.nl/ggdc/productivity/pwt/
+Development Accounting					https://www.rug.nl/ggdc/productivity/pwt/
+Real GDP					https://www.rug.nl/ggdc/productivity/pwt/
+Total					
+					
+Political Risk Factors					
+Electoral Cycle/Calendar				Calendar highlighting the timings of significant political events and specifically highlighting the current electoral cycle and dates for change in government.	https://www.ndi.org/elections-calendar
+Sovreignty Risk				Sovereign risk', or country risk, is the risk that a government could default on its debt (sovereign debt) or other obligations. It is also, the risk generally associated with investing in a particular country, or providing funds to its government.	https://www.cfr.org/cfr-sovereign-risk-tracker
+Corruption Perception Index				he index is published annually by the non-governmental organisation Transparency International since 1995. The 2021 CPI, published in January 2022, currently ranks 180 countries "on a scale from 100 (very clean) to 0 (highly corrupt)" based on the situation between 1 May 2020 and 30 April 2021.	https://www.transparency.org/en/cpi/2021
+Other risk Index 				The CRI quantifies the risk of a shock, such as an economic crisis or a sudden change in the political environment that would affect those conducting business within a country, territory, or special administrative region	https://www.fitchsolutions.com/sites/default/files/2021-04/FS_RI_Methodology_Country_Risk.pdf
+Ease of Doing Business Index				The ease of doing business index was an index created jointly by Simeon Djankov, Michael Klein, and Caralee McLiesh, three leading economists at the World Bank Group. The academic research for the report was done jointly with professors Edward Glaeser, Oliver Hart, and Andrei Shleifer.	https://archive.doingbusiness.org/en/rankings
+Security & Political Stability				The Political Stability Index and Absence of Violence/Terrorism measures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism.	https://www.theglobaleconomy.com/rankings/wb_political_stability/
+Total					
+					
+ESG Rating					
+Total					https://www.robeco.com/uk/key-strengths/sustainable-investing/country-ranking/#:~:text=The%20country%20ESG%20score%20is,score%20and%201%20the%20lowest.
+					
+Logistics					
+Transport Network					https://lpi.worldbank.org/international/global?sort=asc&order=Infrastructure
+Quality of Transport Network					https://www.theglobaleconomy.com/rankings/roads_quality/
+Railroad Infrastructure Quality					theglobaleconomy.com/rankings/railroad_quality/
+Port Infrastructure Quality					https://www.theglobaleconomy.com/rankings/seaports_quality/
+Air Transport Infrastructure Quality					https://www.theglobaleconomy.com/rankings/air_transport_infrastructure/
+Utilities Network					https://www.statista.com/statistics/264753/ranking-of-countries-according-to-the-general-quality-of-infrastructure/
+Cost of Utilities & Energy 					https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=30
+Cost of Oil					https://oilprice.com/
+Local traffic/collision data					https://data.worldbank.org/indicator/SH.STA.TRAF.P5
+Logistics Performance Index					https://lpi.worldbank.org/
+LPI - Customs					https://lpi.worldbank.org/
+LPI - Infrastructure					https://lpi.worldbank.org/
+LPI - International Shipments					https://lpi.worldbank.org/
+LPI - Logistics Quality 					https://lpi.worldbank.org/
+LPI - Tracking & Tracing					https://lpi.worldbank.org/
+LPI - Timeliness					https://lpi.worldbank.org/
+Total					
+					
+Weather Factors					
+Temperature Volatility				Annual variation in temperature	
+Average Temperature				Average annual temperature	https://tradingeconomics.com/country-list/temperature
+Hottest Countries				Ranking of hottest countries	https://worldpopulationreview.com/country-rankings/hottest-countries-in-the-world
+Climate Change Vulnerability Index				A country's ND-GAIN index score is composed of a Vulnerability score and a Readiness score. Vulnerability measures a country's exposure, sensitivity and ability to adapt to the negative impact of climate change. ND-GAIN measures the overall vulnerability by considering vulnerability in six life-supporting sectors – food, water, health, ecosystem service, human habitat and infrastructure	https://gain-new.crc.nd.edu/ranking/vulnerability
+Food Security Risk Index				The Global Food Security Index (GFSI) is the pre-eminent source of intelligence on the drivers of global food security. Developed by Economist Impact and supported by Corteva Agriscience, it evaluates food security in 113 countries across four key pillars: affordability, availability, quality and safety, and sustainability and adaptation. The index is based on a dynamic benchmarking model constructed from 68 qualitative and quantitative drivers of food security.	https://impact.economist.com/sustainability/project/food-security-index/
+Climate Risk Index				The Global Climate Risk Index 2021 analyses and ranks to what extent countries and regions have been affected by impacts of climate related extreme weather events (storms, floods, heatwaves etc.). The most recent data available for 2019 and from 2000 to 2019 was taken into account.	https://reliefweb.int/report/world/global-climate-risk-index-2021
+Extreme Weather Events per annum				Number of extreme weather events per annum	https://www.germanwatch.org/sites/default/files/Global%20Climate%20Risk%20Index%202021_2.pdf
+Current Season				Many countries have seasonal vulnerabilities to certain extreme weather events or are at a higher risk during certain months of the year	
+Proximity to previous extreme weather event				Time (days) since last extreme weather event impacted the country	
+Total					

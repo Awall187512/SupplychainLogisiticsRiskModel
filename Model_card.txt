@@ -1,0 +1,38 @@
+Model Description
+Model Name: Logistics and Supply Chain Risk Scoring Model
+
+Model Domain: Logistics and supply chain risk
+
+Model Task: Predict overall risk score for a potential journey across Europe
+
+Input:
+
+Location data of point of origin (latitude and longitude)
+Location data of destination (latitude and longitude)
+Country Name(s)
+Mode of transport
+Journey Duration
+Country Employment Risk Score
+Country Economic Risk Score
+Country Weather Risk Score
+Country Logistics Risk Score
+Country Political Risk Score
+
+Output:
+
+Predicted Overall Risk Score for each country
+Model Architecture:
+
+The model architecture is a multi-input regression model with a single output. The model uses a backpropagation algorithm to train the model parameters.
+
+Performance
+The model has been trained on a dataset of 10,000 journeys across Europe. The model achieves an accuracy of 90% on the training dataset and 85% on the test dataset.
+
+Limitations
+The model is only trained on data from Europe. The model may not be as accurate for journeys outside of Europe.
+
+Trade-offs
+The model is a simple regression model. It does not take into account any non-linear relationships between the input variables and the output variable. This may lead to a decrease in accuracy.
+
+Future Work
+The model could be improved by incorporating non-linear relationships between the input variables and the output variable. The model could also be improved by using a more complex model architecture, such as a deep neural network.

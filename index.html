@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8' />
+  <title>Get Started With Mapbox GL JS</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    #map { position: absolute; top:0; bottom:0; width:100%; }
+  </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+  mapboxgl.accessToken = 'ACCESS_TOKEN';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11',
+    center: [-74.0060, 40.7128],
+    zoom: 9
+  });
+
+  var origin = null;
+  var destination = null;
+
+  map.on('click', function(e) {
+    if (!origin) {
+      origin = e.lngLat;
+      console.log('Origin: ', origin);
+    } else if (!destination) {
+      destination = e.lngLat;
+      console.log('Destination: ', destination);
+      sendDataToPython(origin, destination);
+    }
+  });
+
+  function sendDataToPython(origin, destination) {
+    // Send a post request to your python backend with origin and destination coordinates
+    fetch('http://localhost:5000/journey', {
+      method: 'post',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        origin: origin,
+        destination: destination
+      })
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+    });
+  }
+</script>
+
+</body>
+</html>
